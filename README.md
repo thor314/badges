@@ -28,6 +28,9 @@ https://shields.io/docs/logos
 - static link: ![](https://img.shields.io/npm/v/npm.svg?logo=npm)
 - my svg logo: ![](media/hammer.svg)
 
+- test: ![Badge](https://img.shields.io/badge/LEFT_TEXT-RIGHT_TEXT-blue?style=flat&logo=media/hammer.svg&logoColor=grey)
+- test no collor: ![Badge](https://img.shields.io/badge/LEFT_TEXT-RIGHT_TEXT-blue?style=flat&logo=media/hammer.svg)
+
 Making an svg from webp:
 ```fish
 convert a.webp a.png
