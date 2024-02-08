@@ -1,8 +1,10 @@
 # playing with badges from shields.io
 My faves:
-- ![](https://img.shields.io/badge/made_by-cryptograthor-pink?style=for_the_badge&logo=tina&logoColor=pink)
+- ![](https://img.shields.io/badge/made_by-cryptograthor-pink?style=for-the-badge&logo=tina&logoColor=pink)
 - ![](https://img.shields.io/badge/made_by-cryptograthor-pink?style=flat&logo=tina&logoColor=pink)
 - ![](https://img.shields.io/badge/made_by-cryptograthor-hotpink?style=flat&logo=stackblitz&logoColor=hotpink)
+- ![](https://img.shields.io/badge/made_by-cryptograthor-hotpink?style=flat&logo=undertale&logoColor=hotpink)
+- ![](https://img.shields.io/badge/made_by_cryptograthor-hotpink?style=flat&logo=undertale&logoColor=hotpink)
 
 ## experiments:
 ### static links
