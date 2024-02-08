@@ -56,7 +56,14 @@ styling
 - tina ![](https://img.shields.io/badge/just-msg-blue?style=flat-square&logo=tina&logoColor=grey)
 - tina ![](https://img.shields.io/badge/just-msg-blue?style=flat-square&logo=tina&logoColor=pink)
 
-fails:
+## couldn't get my own logos to render unfortunately
+
+their example has a reasonably short svg:
+- https://img.shields.io/badge/play-station-blue.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHdpZHRoPSI2MDAiIGhlaWdodD0iNjAwIj48cGF0aCBkPSJNMTI5IDExMWMtNTUgNC05MyA2Ni05MyA3OEwwIDM5OGMtMiA3MCAzNiA5MiA2OSA5MWgxYzc5IDAgODctNTcgMTMwLTEyOGgyMDFjNDMgNzEgNTAgMTI4IDEyOSAxMjhoMWMzMyAxIDcxLTIxIDY5LTkxbC0zNi0yMDljMC0xMi00MC03OC05OC03OGgtMTBjLTYzIDAtOTIgMzUtOTIgNDJIMjM2YzAtNy0yOS00Mi05Mi00MmgtMTV6IiBmaWxsPSIjZmZmIi8+PC9zdmc+
+
+my hacky svg from chatGPT is huge, so that's probably a non-starter.
+
+can we path link? nope
 - test: ![Badge](https://img.shields.io/badge/LEFT_TEXT-RIGHT_TEXT-blue?style=flat&logo=./media/hammer.svg&logoColor=grey)
 - test no color: ![Badge](https://img.shields.io/badge/LEFT_TEXT-RIGHT_TEXT-blue?style=flat&logo=./media/hammer.svg)
 - test: ![Badge](https://img.shields.io/badge/LEFT_TEXT-RIGHT_TEXT-blue?style=flat&logo=https://github.com/thor314/badges/media/hammer.svg&logoColor=grey)
