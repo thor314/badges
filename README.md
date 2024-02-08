@@ -5,6 +5,9 @@ My faves:
 - ![](https://img.shields.io/badge/made_by-cryptograthor-hotpink?style=flat&logo=stackblitz&logoColor=hotpink)
 - ![](https://img.shields.io/badge/made_by-cryptograthor-hotpink?style=flat&logo=undertale&logoColor=hotpink)
 - ![](https://img.shields.io/badge/made_by_cryptograthor-white?style=flat&logo=undertale&logoColor=hotpink)
+- ![](https://img.shields.io/badge/made_by_cryptograthor-grey?style=flat&logo=undertale&logoColor=hotpink)
+- ![](https://img.shields.io/badge/made_by_cryptograthor-grey?style=flat&logo=undertale&logoColor=hotpink)
+- ![](https://img.shields.io/badge/made_by_cryptograthor-black?style=flat&logo=undertale&logoColor=hotpink)
 
 ## experiments:
 ### static links
